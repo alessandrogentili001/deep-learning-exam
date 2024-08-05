@@ -10,7 +10,7 @@ This repository contains the solution for the deep learning exam at the Universi
 
 ## Project Structure
 
-- `satellite_segmentation_exam.ipynb`: noteboook containing the assignment and the link for teh dataset download.
+- `satellite_segmentation_exam.ipynb`: noteboook containing the assignment and the link for the dataset download.
 - `solution`: notebook containing my personal solution to the problem.
 
 ## Requirements
