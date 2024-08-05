@@ -23,8 +23,8 @@ This repository contains the solution for the deep learning exam at the Universi
 
 1. Clone this repository:
    ```
-   git clone https://github.com/alessandrogentili001/DeepLearning-exam.git
-   cd DeepLearning-exam
+   git clone https://github.com/alessandrogentili001/deep-learning-exam.git
+   cd deep-learning-exam
    ```
 
 2. Install the required dependencies:
@@ -55,11 +55,11 @@ This project focuses on developing a deep learning model for satellite image seg
 The exam will be evaluated based on:
 
 - Correctness of implementation
-- Model performance and accuracy
+- Model performance and accuracy (maximum grade for a score above 0.5 on test set)
 - Code quality and documentation
 - Analysis and interpretation of results
 
 ## Acknowledgments
 
-- Professor Andrea Asperti and TAs for guidance and instruction
+- Professor Andrea Asperti and TAs for guidance and instructions
 - University of Bologna, Department of Computer Science and Engineering
